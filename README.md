@@ -1,9 +1,3 @@
-Table of Contents
-=================
-
-* [What is it?](#what-is-it)
-     * [Example](#example)
-
 # What is it?
 This is a HTML to Word conversion library for Rails.
 
