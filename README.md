@@ -7,6 +7,10 @@ Note: The converted document can only be opened by Microsoft Office. Apple's Pag
 
 # Example
 
+You need install [Nokogiri](https://www.nokogiri.org/tutorials/installing_nokogiri.html) and [FastImage](https://github.com/sdsykes/fastimage) first.
+
+Next you can use the sample code below to get started quickly.
+
 ```Ruby
 # Callback function for progress updates, usually used to show conversion progress to the front end.
 updater = ->(percent) { print percent }
